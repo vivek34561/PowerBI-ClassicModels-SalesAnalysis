@@ -60,7 +60,7 @@ The dataset contains multiple `.csv` files representing relational data from a f
 
 | Dashboard | 
 |-----------|
-| ![Dashboard](![image](https://github.com/user-attachments/assets/e4e95071-8bdc-4d35-add9-8c5f5a542fe9)
-) |
+| ![image](https://github.com/user-attachments/assets/e4e95071-8bdc-4d35-add9-8c5f5a542fe9)
+ |
 
 
